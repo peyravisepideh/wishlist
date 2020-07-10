@@ -1,15 +1,9 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "8652B261-5EF7-43B0-8A8C-CCEED515018A",
+  "do_objectID": "D9D11AF0-3BF6-4676-97C2-313B0ECCE5C4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,52 +13,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 896,
-    "width": 414,
-    "x": 531,
-    "y": 6
+    "constrainProportions": true,
+    "height": 89,
+    "width": 89,
+    "x": -6,
+    "y": -6
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/845db70acb389ddc2989345ed30f0ef45bf9f866.png",
+    "_ref_class": "MSImageData"
   },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-  ],
   "maintainScrollPosition": false,
-  "name": "1",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone 11",
-    "offersLandscapeVariant": 1,
-    "width": 414
-  },
-  "resizesContent": false,
+  "name": "10849094",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -99,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BE51678B-9240-42AA-A418-4CA1D3F8B574",
+    "do_objectID": "183A1E05-90FA-47D2-9BC2-473095632BBB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -110,11 +87,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

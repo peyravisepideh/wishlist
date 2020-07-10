@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0223620-C50F-42A7-8E9A-20CEB027445D",
+  "do_objectID": "8652B261-5EF7-43B0-8A8C-CCEED515018A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +22,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 896,
+    "width": 414,
+    "x": 134,
+    "y": -34
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -31,38 +39,52 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "29DA426B-083D-43D8-9EFE-39FD9E303897"
+      "class": "rectangle",
+      "id": "25EE7F20-B9A6-4108-B967-C635CCE118E3"
     },
     {
-      "class": "artboard",
-      "id": "86214C65-18E3-4959-A83B-9100267595FA"
+      "class": "bitmap",
+      "id": "4752D517-5F76-408C-B4C7-925F1B3A42DA"
     },
     {
-      "class": "artboard",
-      "id": "BEE9D930-5C3E-45E3-94E4-23BD840DE720"
+      "class": "text",
+      "id": "0E7E7A75-3E12-4B7C-B6A9-368A383BCE47"
     },
     {
-      "class": "artboard",
-      "id": "8652B261-5EF7-43B0-8A8C-CCEED515018A"
+      "class": "group",
+      "id": "75230C5B-22EE-4889-B6E7-986B3B7CCF65"
+    },
+    {
+      "class": "group",
+      "id": "16B8B76A-FEC0-490D-91EB-3730B7161D69"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -97,7 +119,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F4BCDAE7-D925-40D4-AA1F-8FB43FB884F7",
+    "do_objectID": "BE51678B-9240-42AA-A418-4CA1D3F8B574",
     "endMarkerType": 0,
     "fills": [
     ],

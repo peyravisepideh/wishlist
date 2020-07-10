@@ -3,15 +3,161 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313725,
+          "green": 0.3294117647058825,
+          "red": 0.3176470588235294
+        },
+        "do_objectID": "7152F740-6CBE-43D3-9DBA-EF6B3BA56A6F",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8096127717391305,
+          "green": 0.4458732532165463,
+          "red": 0.4458732532165463
+        },
+        "do_objectID": "B751695B-2EEB-48BF-A216-6404DF607169",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8313725490196079,
+          "green": 0.4823529411764707,
+          "red": 0.4941176470588236
+        },
+        "do_objectID": "3F7E7484-3511-4B97-B013-2AB462DAA6A2",
+        "name": ""
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6901960784313725,
+        "green": 0.3294117647058825,
+        "red": 0.3176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8096127717391305,
+        "green": 0.4458732532165463,
+        "red": 0.4458732532165463
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8313725490196079,
+        "green": 0.4823529411764707,
+        "red": 0.4941176470588236
+      }
     ],
     "do_objectID": "B4B2A396-61D4-440D-BE11-50EA3D0389D9",
     "exportPresets": [
     ],
     "gradientAssets": [
+      {
+        "_class": "MSImmutableGradientAsset",
+        "do_objectID": "9E8B5E31-3318-4F8A-B8F9-F5F65EC453FB",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9287817028985508,
+                "green": 0.9287817028985508,
+                "red": 0.9287817028985508
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8568840579710145,
+                "green": 0.6218613992355956,
+                "red": 0.6382583289148108
+              },
+              "position": 0.6049936655405406
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.796078431372549,
+                "green": 0.4588235294117647,
+                "red": 0.4823529411764706
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "name": ""
+      }
     ],
     "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9287817028985508,
+              "green": 0.9287817028985508,
+              "red": 0.9287817028985508
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8568840579710145,
+              "green": 0.6218613992355956,
+              "red": 0.6382583289148108
+            },
+            "position": 0.6049936655405406
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.796078431372549,
+              "green": 0.4588235294117647,
+              "red": 0.4823529411764706
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      }
     ],
     "imageCollection": {
       "_class": "imageCollection",

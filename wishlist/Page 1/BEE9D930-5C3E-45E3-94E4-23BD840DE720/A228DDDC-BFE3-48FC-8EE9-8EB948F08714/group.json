@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "29DA426B-083D-43D8-9EFE-39FD9E303897",
+  "do_objectID": "A228DDDC-BFE3-48FC-8EE9-8EB948F08714",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,49 +15,39 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 896,
-    "width": 414,
-    "x": 1045,
-    "y": 6
+    "height": 87,
+    "width": 374,
+    "x": 20,
+    "y": 345
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "EB3D3926-042B-4645-9861-C5EAC85A1A0D"
+    },
+    {
+      "class": "text",
+      "id": "ABF2BB40-E9CA-4B5B-A833-EAF348BA92B9"
+    }
   ],
   "maintainScrollPosition": false,
-  "name": "2",
+  "name": "Password field",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone 11",
-    "offersLandscapeVariant": 1,
-    "width": 414
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -99,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0E2ED7A1-1F0A-4AC4-B013-0D1C6C184E7B",
+    "do_objectID": "8A160D79-0324-4041-86CE-75A31F616D58",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -110,11 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
