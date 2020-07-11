@@ -24,7 +24,9 @@
             "_class": "paragraphStyle",
             "alignment": 2
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
         "length": 16,
         "location": 0
@@ -187,7 +189,9 @@
           "_class": "paragraphStyle",
           "alignment": 2
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

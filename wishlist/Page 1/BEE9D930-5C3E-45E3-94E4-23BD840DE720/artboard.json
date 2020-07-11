@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 896,
     "width": 414,
-    "x": 586,
+    "x": 591,
     "y": -34
   },
   "groupLayout": {
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",

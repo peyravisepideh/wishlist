@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProText-Bold",
-              "size": 30
+              "size": 29
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Lets get your wishes come true"
+    "string": "Let’s make your wishes come true"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 326,
-    "x": 44,
-    "y": 448
+    "height": 70,
+    "width": 353,
+    "x": 31,
+    "y": 432
   },
-  "glyphBounds": "{{10, 5}, {307, 61}}",
+  "glyphBounds": "{{9, 5}, {336, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Lets get your wishes",
+  "name": "Let’s make your wish",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -230,7 +230,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProText-Bold",
-            "size": 30
+            "size": 29
           }
         },
         "paragraphStyle": {
