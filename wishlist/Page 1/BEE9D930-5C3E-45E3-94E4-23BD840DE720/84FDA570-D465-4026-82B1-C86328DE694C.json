@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB39D3CD-719C-4F1A-89D5-7C3B34FC9DB9",
+  "do_objectID": "84FDA570-D465-4026-82B1-C86328DE694C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
     "height": 42,
     "width": 42,
     "x": 24,
-    "y": 36
+    "y": 40
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -32,6 +32,11 @@
   "name": "Outlined/UI/arrow_left",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "86EF58B0-64ED-4E5F-ACC4-4E5C140AF6FB_layerStyle",
+      "value": "3F10F1DD-AB06-42ED-AE16-61ABD20B5BF3"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1135A9D0-6FCB-429F-A3AD-66E7A34DD2C8",
+    "do_objectID": "357138C0-D11C-4018-8F20-C9981362C232",
     "endMarkerType": 0,
     "fills": [
     ],
