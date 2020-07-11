@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Peyravisepideh@gmail.com"
+    "string": "NegarRoosta@gmail.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 297,
+    "width": 273,
     "x": 24,
     "y": 31
   },
-  "glyphBounds": "{{1, 4}, {295, 22}}",
+  "glyphBounds": "{{1, 4}, {270, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Peyravisepideh@gmail",
+  "name": "NegarRoosta@gmail.co",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

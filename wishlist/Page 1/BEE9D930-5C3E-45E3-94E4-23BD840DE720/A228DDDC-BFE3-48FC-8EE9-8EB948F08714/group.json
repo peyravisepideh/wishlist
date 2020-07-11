@@ -47,6 +47,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "0AB6E0D6-A258-4EAC-A4A1-CB7898D2A2D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -80,7 +81,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.8
     },
     "do_objectID": "8A160D79-0324-4041-86CE-75A31F616D58",
     "endMarkerType": 0,

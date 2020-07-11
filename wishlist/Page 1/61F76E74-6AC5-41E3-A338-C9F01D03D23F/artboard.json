@@ -50,8 +50,88 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "639A045C-58D3-402C-A43D-40CFF22367C3"
+    },
+    {
+      "class": "text",
+      "id": "2FEF2135-D41F-4B94-8282-F6B659FE8EDD"
+    },
+    {
+      "class": "group",
+      "id": "7FE96875-51F1-464F-B3C8-7DB05F864DA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5E6D4AA-6A89-461E-9975-F8C819B29942"
+    },
+    {
+      "class": "text",
+      "id": "08E4A7ED-3305-4931-AD81-01B29BCDFB58"
+    },
+    {
+      "class": "group",
+      "id": "5D070CFE-7E8A-44CE-A0CB-6E3955A67711"
+    },
+    {
+      "class": "group",
+      "id": "CA397590-BD25-4B54-AE47-07AA33B0B8B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C197DAA-ED3F-46BC-AEFC-8403F0D2B205"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7C4DEBA-A330-4235-8927-7C1060301B7E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E47ABB97-0659-4453-BF3C-48056A0FECD7"
+    },
+    {
+      "class": "text",
+      "id": "22DF9246-AF12-444B-9448-135FDA15EBD0"
+    },
+    {
+      "class": "text",
+      "id": "6CB3310F-154A-44E5-B1CE-51DE9FCF8AED"
+    },
+    {
+      "class": "rectangle",
+      "id": "72F80A6B-A33A-461E-93ED-7C58C1072DFF"
+    },
+    {
+      "class": "group",
+      "id": "E07F4121-57F2-48D8-889D-3E6C3DF118CC"
+    },
+    {
+      "class": "text",
+      "id": "1EE362BF-04CF-4014-A377-1F90FBF94720"
+    },
+    {
+      "class": "group",
+      "id": "A3FF2D9E-5DB7-4F46-9EE6-67DE9DC6F097"
+    },
+    {
+      "class": "text",
+      "id": "3426F444-1F9E-4299-B81E-6CF39A3CEBFA"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B51791F-CDC0-4CEA-8243-914AEF0C60DB"
+    },
+    {
       "class": "group",
       "id": "D6B8A12C-E9D4-4CDD-BEC9-FC2AACD35481"
+    },
+    {
+      "class": "text",
+      "id": "4815E69E-6002-4FE0-8F3F-1475B15D633D"
+    },
+    {
+      "class": "text",
+      "id": "6A54FF61-5D59-4B3C-BE4D-F1130CD0E2D1"
     }
   ],
   "maintainScrollPosition": false,
