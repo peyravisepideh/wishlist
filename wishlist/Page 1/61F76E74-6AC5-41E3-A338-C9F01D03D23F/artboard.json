@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -71,31 +71,11 @@
     },
     {
       "class": "group",
-      "id": "5D070CFE-7E8A-44CE-A0CB-6E3955A67711"
+      "id": "E95121FC-7B3C-4772-9465-558E83C2B8B5"
     },
     {
       "class": "group",
-      "id": "CA397590-BD25-4B54-AE47-07AA33B0B8B7"
-    },
-    {
-      "class": "rectangle",
-      "id": "2C197DAA-ED3F-46BC-AEFC-8403F0D2B205"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E7C4DEBA-A330-4235-8927-7C1060301B7E"
-    },
-    {
-      "class": "rectangle",
-      "id": "E47ABB97-0659-4453-BF3C-48056A0FECD7"
-    },
-    {
-      "class": "text",
-      "id": "22DF9246-AF12-444B-9448-135FDA15EBD0"
-    },
-    {
-      "class": "text",
-      "id": "6CB3310F-154A-44E5-B1CE-51DE9FCF8AED"
+      "id": "24C33773-6F06-4716-A9BE-279A2A691E82"
     },
     {
       "class": "group",
@@ -111,7 +91,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "3",
+  "name": "4",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

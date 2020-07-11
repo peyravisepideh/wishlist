@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Semibold",
+              "name": "SFProText-Bold",
               "size": 30
             }
           },
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 200,
-    "x": 24,
-    "y": 183
+    "width": 206,
+    "x": 21,
+    "y": 167
   },
-  "glyphBounds": "{{1, 6}, {198, 29}}",
+  "glyphBounds": "{{1, 6}, {204, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -179,7 +179,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Semibold",
+            "name": "SFProText-Bold",
             "size": 30
           }
         },

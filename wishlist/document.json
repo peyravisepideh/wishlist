@@ -12,7 +12,8 @@
           "green": 0.4823529411764707,
           "red": 0.4941176470588236
         },
-        "do_objectID": "26160E07-2A2E-475B-9AB2-090A139221E7"
+        "do_objectID": "26160E07-2A2E-475B-9AB2-090A139221E7",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -23,7 +24,8 @@
           "green": 0.3294117647058825,
           "red": 0.3176470588235294
         },
-        "do_objectID": "45DA68C3-49EA-4FF7-B470-243FD55ED3DF"
+        "do_objectID": "45DA68C3-49EA-4FF7-B470-243FD55ED3DF",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -34,7 +36,8 @@
           "green": 0.2834938780163319,
           "red": 0.2958087063831482
         },
-        "do_objectID": "72EB6073-F588-4CEA-BB03-2FF4A3940A4A"
+        "do_objectID": "72EB6073-F588-4CEA-BB03-2FF4A3940A4A",
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -45,7 +48,8 @@
           "green": 0.3803921568627451,
           "red": 0.392156862745098
         },
-        "do_objectID": "035495F9-D959-487F-8809-F357340A767D"
+        "do_objectID": "035495F9-D959-487F-8809-F357340A767D",
+        "name": ""
       }
     ],
     "colors": [
