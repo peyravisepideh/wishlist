@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
+    "height": 100,
     "width": 414,
     "x": 0,
-    "y": 793
+    "y": 796
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [

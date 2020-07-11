@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Regular",
-              "size": 16
+              "name": "SFProText-Bold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Current task"
+    "string": "65%"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6A54FF61-5D59-4B3C-BE4D-F1130CD0E2D1",
+  "do_objectID": "3426F444-1F9E-4299-B81E-6CF39A3CEBFA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 94,
-    "x": 40,
-    "y": 549
+    "height": 21,
+    "width": 43,
+    "x": 300.5,
+    "y": 47
   },
-  "glyphBounds": "{{1, 3}, {93, 13}}",
+  "glyphBounds": "{{1, 3}, {41, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Current task",
+  "name": "65%",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4860C4A3-E9EE-4FA0-853E-61A06AFAB706",
+    "do_objectID": "C9B3FE8A-2DC4-4BBC-995C-946B3D8244BF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -112,9 +112,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6901960784313725,
-          "green": 0.3294117647058825,
-          "red": 0.3176470588235294
+          "blue": 0.7695029438405797,
+          "green": 0.4026987204580351,
+          "red": 0.4026987204580351
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -179,8 +179,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Regular",
-            "size": 16
+            "name": "SFProText-Bold",
+            "size": 18
           }
         },
         "paragraphStyle": {

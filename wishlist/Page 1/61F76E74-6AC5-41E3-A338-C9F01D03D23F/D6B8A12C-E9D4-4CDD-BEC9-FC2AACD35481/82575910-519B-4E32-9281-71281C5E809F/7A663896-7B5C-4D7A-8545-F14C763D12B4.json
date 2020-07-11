@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 87,
+    "height": 82,
     "width": 84,
     "x": 0,
     "y": 0
@@ -81,7 +81,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "661E1C64-F0F4-4802-9E22-EAE3B769B263",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

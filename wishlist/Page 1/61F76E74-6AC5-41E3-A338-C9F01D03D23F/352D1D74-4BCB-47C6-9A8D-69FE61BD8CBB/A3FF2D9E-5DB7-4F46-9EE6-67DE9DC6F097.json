@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 99,
     "width": 99,
-    "x": 292,
-    "y": 474
+    "x": 272,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,16 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "oval",
-      "id": "CF15BB1C-13F1-4491-888A-0E6B5B53CBEF"
-    },
-    {
-      "class": "oval",
-      "id": "CF1018CB-06E3-4F99-B7A4-B40FD0B1E650"
-    }
   ],
   "maintainScrollPosition": false,
   "name": "progres",

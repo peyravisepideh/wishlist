@@ -1,9 +1,42 @@
 {
-  "_class": "rectangle",
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9994974732398987,
+            "green": 1,
+            "red": 0.9996636509895325
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 3,
+        "location": 0
+      }
+    ],
+    "string": "80%"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4B51791F-CDC0-4CEA-8243-914AEF0C60DB",
-  "edited": false,
+  "do_objectID": "AABA097E-C6E9-42AF-B68F-BE215E9B123E",
+  "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,72 +46,27 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 19,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 175,
-    "width": 374,
-    "x": 24,
-    "y": 661
+    "height": 21,
+    "width": 44,
+    "x": 300,
+    "y": 47
   },
+  "glyphBounds": "{{1, 3}, {42, 15}}",
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Rectangle Copy 2",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 19,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 19,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 19,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 19,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
-    }
-  ],
-  "resizingConstraint": 63,
+  "name": "80%",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -116,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "49083FCF-E214-45C2-BD88-B461EF1D3C1A",
+    "do_objectID": "BB5C05F1-D5F2-4A4D-A9C9-039C232D2145",
     "endMarkerType": 0,
     "fills": [
       {
@@ -124,9 +112,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.7695029438405797,
+          "green": 0.4026987204580351,
+          "red": 0.4026987204580351
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -176,28 +164,34 @@
     ],
     "miterLimit": 10,
     "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 14,
-        "color": {
-          "_class": "color",
-          "alpha": 0.2126584353146853,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
     ],
     "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9994974732398987,
+          "green": 1,
+          "red": 0.9996636509895325
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProText-Bold",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
     "windingRule": 1
-  }
+  },
+  "textBehaviour": 0
 }

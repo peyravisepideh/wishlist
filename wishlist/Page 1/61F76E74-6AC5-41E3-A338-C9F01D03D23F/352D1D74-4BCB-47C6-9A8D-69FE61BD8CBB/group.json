@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE6DC012-FBD4-4476-9A1E-FCC4648CD6F3",
+  "do_objectID": "352D1D74-4BCB-47C6-9A8D-69FE61BD8CBB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 32,
-    "x": 0,
-    "y": 0.9540043290043289
+    "height": 175,
+    "width": 374,
+    "x": 20,
+    "y": 448
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,16 +33,56 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "72F80A6B-A33A-461E-93ED-7C58C1072DFF"
+    },
+    {
+      "class": "group",
+      "id": "E07F4121-57F2-48D8-889D-3E6C3DF118CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "57B3600A-9A15-4E5E-BE23-E6D2A9CFDF8B"
+    },
+    {
       "class": "symbolInstance",
-      "id": "51DA4613-9954-409D-9099-BE9F7C5234EC"
+      "id": "3DF27645-EA70-4D13-BCB2-B954A760D884"
+    },
+    {
+      "class": "text",
+      "id": "21896E68-43C2-4059-B060-A5CB8A1C35BD"
+    },
+    {
+      "class": "text",
+      "id": "1EE362BF-04CF-4014-A377-1F90FBF94720"
+    },
+    {
+      "class": "group",
+      "id": "A3FF2D9E-5DB7-4F46-9EE6-67DE9DC6F097"
     },
     {
       "class": "oval",
-      "id": "ED09401C-EBC5-4F0F-944C-665F21F5AFFE"
+      "id": "CF15BB1C-13F1-4491-888A-0E6B5B53CBEF"
+    },
+    {
+      "class": "oval",
+      "id": "CF1018CB-06E3-4F99-B7A4-B40FD0B1E650"
+    },
+    {
+      "class": "text",
+      "id": "4815E69E-6002-4FE0-8F3F-1475B15D633D"
+    },
+    {
+      "class": "text",
+      "id": "6A54FF61-5D59-4B3C-BE4D-F1130CD0E2D1"
+    },
+    {
+      "class": "text",
+      "id": "3426F444-1F9E-4299-B81E-6CF39A3CEBFA"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Home icon",
+  "name": "Wish card 1",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +122,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F659D916-9EC3-4C0B-85E7-37AFBF9CEDCC",
+    "do_objectID": "012C7520-6851-43F5-9814-7750B637DAB7",
     "endMarkerType": 0,
     "fills": [
     ],

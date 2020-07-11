@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE6DC012-FBD4-4476-9A1E-FCC4648CD6F3",
+  "do_objectID": "D403FC11-8551-421C-8386-C719D11299A2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
+    "height": 32,
     "width": 32,
-    "x": 0,
-    "y": 0.9540043290043289
+    "x": 306,
+    "y": 117
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "51DA4613-9954-409D-9099-BE9F7C5234EC"
-    },
-    {
-      "class": "oval",
-      "id": "ED09401C-EBC5-4F0F-944C-665F21F5AFFE"
-    }
-  ],
   "maintainScrollPosition": false,
-  "name": "Home icon",
-  "nameIsFixed": true,
+  "name": "Outlined/UI/arrow_right",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F659D916-9EC3-4C0B-85E7-37AFBF9CEDCC",
+    "do_objectID": "70A6DD0C-F13F-4E7C-939E-AD1A8673407B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +83,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B2B4DDB2-491D-4B27-B158-36539214C4E3",
+  "verticalSpacing": 0
 }

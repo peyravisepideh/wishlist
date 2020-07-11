@@ -98,40 +98,16 @@
       "id": "6CB3310F-154A-44E5-B1CE-51DE9FCF8AED"
     },
     {
-      "class": "rectangle",
-      "id": "72F80A6B-A33A-461E-93ED-7C58C1072DFF"
+      "class": "group",
+      "id": "5DE03179-F757-4794-866B-456BDE67F592"
     },
     {
       "class": "group",
-      "id": "E07F4121-57F2-48D8-889D-3E6C3DF118CC"
-    },
-    {
-      "class": "text",
-      "id": "1EE362BF-04CF-4014-A377-1F90FBF94720"
-    },
-    {
-      "class": "group",
-      "id": "A3FF2D9E-5DB7-4F46-9EE6-67DE9DC6F097"
-    },
-    {
-      "class": "text",
-      "id": "3426F444-1F9E-4299-B81E-6CF39A3CEBFA"
-    },
-    {
-      "class": "rectangle",
-      "id": "4B51791F-CDC0-4CEA-8243-914AEF0C60DB"
+      "id": "352D1D74-4BCB-47C6-9A8D-69FE61BD8CBB"
     },
     {
       "class": "group",
       "id": "D6B8A12C-E9D4-4CDD-BEC9-FC2AACD35481"
-    },
-    {
-      "class": "text",
-      "id": "4815E69E-6002-4FE0-8F3F-1475B15D633D"
-    },
-    {
-      "class": "text",
-      "id": "6A54FF61-5D59-4B3C-BE4D-F1130CD0E2D1"
     }
   ],
   "maintainScrollPosition": false,

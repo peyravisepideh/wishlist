@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -47,7 +47,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0AB6E0D6-A258-4EAC-A4A1-CB7898D2A2D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

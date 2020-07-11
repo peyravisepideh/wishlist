@@ -8,65 +8,47 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6901960784313725,
-          "green": 0.3294117647058825,
-          "red": 0.3176470588235294
-        },
-        "do_objectID": "7152F740-6CBE-43D3-9DBA-EF6B3BA56A6F",
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8096127717391305,
-          "green": 0.4458732532165463,
-          "red": 0.4458732532165463
-        },
-        "do_objectID": "B751695B-2EEB-48BF-A216-6404DF607169",
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
           "blue": 0.8313725490196079,
           "green": 0.4823529411764707,
           "red": 0.4941176470588236
         },
-        "do_objectID": "3F7E7484-3511-4B97-B013-2AB462DAA6A2",
-        "name": ""
+        "do_objectID": "26160E07-2A2E-475B-9AB2-090A139221E7"
       },
       {
         "_class": "MSImmutableColorAsset",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7695029438405797,
-          "green": 0.4026987204580351,
-          "red": 0.4026987204580351
+          "blue": 0.6901960784313725,
+          "green": 0.3294117647058825,
+          "red": 0.3176470588235294
         },
-        "do_objectID": "5D1D9C1E-CAE4-46EA-8840-B722FB47FE26",
-        "name": ""
+        "do_objectID": "45DA68C3-49EA-4FF7-B470-243FD55ED3DF"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.65,
+          "blue": 0.648833786231884,
+          "green": 0.2834938780163319,
+          "red": 0.2958087063831482
+        },
+        "do_objectID": "72EB6073-F588-4CEA-BB03-2FF4A3940A4A"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.3803921568627451,
+          "red": 0.392156862745098
+        },
+        "do_objectID": "035495F9-D959-487F-8809-F357340A767D"
       }
     ],
     "colors": [
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.6901960784313725,
-        "green": 0.3294117647058825,
-        "red": 0.3176470588235294
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.8096127717391305,
-        "green": 0.4458732532165463,
-        "red": 0.4458732532165463
-      },
       {
         "_class": "color",
         "alpha": 1,
@@ -77,9 +59,23 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.7695029438405797,
-        "green": 0.4026987204580351,
-        "red": 0.4026987204580351
+        "blue": 0.6901960784313725,
+        "green": 0.3294117647058825,
+        "red": 0.3176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 0.65,
+        "blue": 0.648833786231884,
+        "green": 0.2834938780163319,
+        "red": 0.2958087063831482
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7411764705882353,
+        "green": 0.3803921568627451,
+        "red": 0.392156862745098
       }
     ],
     "do_objectID": "B4B2A396-61D4-440D-BE11-50EA3D0389D9",
@@ -88,90 +84,7 @@
     "gradientAssets": [
       {
         "_class": "MSImmutableGradientAsset",
-        "do_objectID": "9E8B5E31-3318-4F8A-B8F9-F5F65EC453FB",
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.9287817028985508,
-                "green": 0.9287817028985508,
-                "red": 0.9287817028985508
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8568840579710145,
-                "green": 0.6218613992355956,
-                "red": 0.6382583289148108
-              },
-              "position": 0.6049936655405406
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.796078431372549,
-                "green": 0.4588235294117647,
-                "red": 0.4823529411764706
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableGradientAsset",
-        "do_objectID": "EDCFC375-999E-4E00-A811-50A41E03CA16",
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.50000000000000178, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8568840579710145,
-                "green": 0.6218613992355956,
-                "red": 0.6382583289148108
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.796078431372549,
-                "green": 0.4588235294117647,
-                "red": 0.4823529411764706
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.50000000000000178, 1}"
-        },
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableGradientAsset",
-        "do_objectID": "1EC518CF-E3F8-47A7-948D-C81CC61E0AAB",
+        "do_objectID": "FB90C617-2D6A-4931-882E-92383E9DDC88",
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -207,79 +120,6 @@
       }
     ],
     "gradients": [
-      {
-        "_class": "gradient",
-        "elipseLength": 0,
-        "from": "{0.5, 0}",
-        "gradientType": 0,
-        "stops": [
-          {
-            "_class": "gradientStop",
-            "color": {
-              "_class": "color",
-              "alpha": 1,
-              "blue": 0.9287817028985508,
-              "green": 0.9287817028985508,
-              "red": 0.9287817028985508
-            },
-            "position": 0
-          },
-          {
-            "_class": "gradientStop",
-            "color": {
-              "_class": "color",
-              "alpha": 1,
-              "blue": 0.8568840579710145,
-              "green": 0.6218613992355956,
-              "red": 0.6382583289148108
-            },
-            "position": 0.6049936655405406
-          },
-          {
-            "_class": "gradientStop",
-            "color": {
-              "_class": "color",
-              "alpha": 1,
-              "blue": 0.796078431372549,
-              "green": 0.4588235294117647,
-              "red": 0.4823529411764706
-            },
-            "position": 1
-          }
-        ],
-        "to": "{0.5, 1}"
-      },
-      {
-        "_class": "gradient",
-        "elipseLength": 0,
-        "from": "{0.50000000000000178, 0}",
-        "gradientType": 0,
-        "stops": [
-          {
-            "_class": "gradientStop",
-            "color": {
-              "_class": "color",
-              "alpha": 1,
-              "blue": 0.8568840579710145,
-              "green": 0.6218613992355956,
-              "red": 0.6382583289148108
-            },
-            "position": 0
-          },
-          {
-            "_class": "gradientStop",
-            "color": {
-              "_class": "color",
-              "alpha": 1,
-              "blue": 0.796078431372549,
-              "green": 0.4588235294117647,
-              "red": 0.4823529411764706
-            },
-            "position": 1
-          }
-        ],
-        "to": "{0.50000000000000178, 1}"
-      },
       {
         "_class": "gradient",
         "elipseLength": 0,

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE6DC012-FBD4-4476-9A1E-FCC4648CD6F3",
+  "do_objectID": "5DE03179-F757-4794-866B-456BDE67F592",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 32,
-    "x": 0,
-    "y": 0.9540043290043289
+    "height": 175,
+    "width": 374,
+    "x": 20,
+    "y": 643
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +30,59 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "B872B823-694D-4FBE-B974-EF28886271B9"
+    },
+    {
+      "class": "group",
+      "id": "E49FE633-3D24-4F28-9C80-826909B9510E"
+    },
+    {
       "class": "symbolInstance",
-      "id": "51DA4613-9954-409D-9099-BE9F7C5234EC"
+      "id": "D403FC11-8551-421C-8386-C719D11299A2"
+    },
+    {
+      "class": "text",
+      "id": "4902A407-BAB2-4D7C-A211-68C92430C2E4"
+    },
+    {
+      "class": "group",
+      "id": "B733FE02-E237-4A69-BC96-0DC06AC325BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD83149A-85F6-47DD-B4CB-376DCB4B25E5"
+    },
+    {
+      "class": "text",
+      "id": "149922BF-739E-4647-B8F2-E8951FC19250"
     },
     {
       "class": "oval",
-      "id": "ED09401C-EBC5-4F0F-944C-665F21F5AFFE"
+      "id": "EB9F0001-B936-420C-BFC7-9042948079CB"
+    },
+    {
+      "class": "oval",
+      "id": "9E74247B-AAAB-46B2-90DA-564E708966A8"
+    },
+    {
+      "class": "text",
+      "id": "0B7C162E-E463-4756-A955-312BBE1E0A28"
+    },
+    {
+      "class": "text",
+      "id": "D7B9D809-6143-4645-91E0-2CC4E97BB04C"
+    },
+    {
+      "class": "text",
+      "id": "AABA097E-C6E9-42AF-B68F-BE215E9B123E"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Home icon",
+  "name": "Wish card 2",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,7 +122,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F659D916-9EC3-4C0B-85E7-37AFBF9CEDCC",
+    "do_objectID": "90D89F93-17D4-4A5E-AB9D-2C8D0C311413",
     "endMarkerType": 0,
     "fills": [
     ],

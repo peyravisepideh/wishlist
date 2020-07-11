@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FE6DC012-FBD4-4476-9A1E-FCC4648CD6F3",
+  "do_objectID": "E49FE633-3D24-4F28-9C80-826909B9510E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 32,
-    "x": 0,
-    "y": 0.9540043290043289
+    "height": 52,
+    "width": 358,
+    "x": 8,
+    "y": 107
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "51DA4613-9954-409D-9099-BE9F7C5234EC"
-    },
-    {
-      "class": "oval",
-      "id": "ED09401C-EBC5-4F0F-944C-665F21F5AFFE"
-    }
   ],
   "maintainScrollPosition": false,
-  "name": "Home icon",
+  "name": "Email field Copy 3",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,9 +72,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.8
     },
-    "do_objectID": "F659D916-9EC3-4C0B-85E7-37AFBF9CEDCC",
+    "do_objectID": "F41B84CA-6D19-4D5D-9B25-141F5A7A2A71",
     "endMarkerType": 0,
     "fills": [
     ],

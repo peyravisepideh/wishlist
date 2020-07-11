@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E07F4121-57F2-48D8-889D-3E6C3DF118CC",
+  "do_objectID": "B733FE02-E237-4A69-BC96-0DC06AC325BE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 342,
-    "x": 39,
-    "y": 574
+    "height": 99,
+    "width": 99,
+    "x": 272,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,20 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "57B3600A-9A15-4E5E-BE23-E6D2A9CFDF8B"
-    }
   ],
   "maintainScrollPosition": false,
-  "name": "Email field Copy 3",
+  "name": "progres",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0AB6E0D6-A258-4EAC-A4A1-CB7898D2A2D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,7 +47,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8,
       "saturation": 1,
       "type": 0
     },
@@ -77,9 +72,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.8
+      "opacity": 1
     },
-    "do_objectID": "58EB9E1D-5751-465A-A62A-574420F6E7EB",
+    "do_objectID": "E6969AF5-55EA-41BC-8C0D-FDA782E22D50",
     "endMarkerType": 0,
     "fills": [
     ],
