@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BEE9D930-5C3E-45E3-94E4-23BD840DE720",
+  "do_objectID": "2237297F-9585-41F0-87F6-9A7C3E15D038",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,7 +25,7 @@
     "height": 896,
     "width": 414,
     "x": 591,
-    "y": -34
+    "y": 909
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -47,51 +47,51 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "04406A45-A194-43B0-BA09-0098EED3A9DD"
+      "id": "51FF6D3E-2DB3-4B3F-854B-926FEFC09C17"
     },
     {
       "class": "text",
-      "id": "B3E04A25-AFC2-4C91-BE52-AFBEF37BE6B4"
+      "id": "EB6C66EA-116E-4512-B7EB-0A67F7E8C0A4"
     },
     {
       "class": "group",
-      "id": "4DDCD2CD-E7FB-461F-A845-CC53B7C5B5F4"
+      "id": "E25DA1B9-18B7-4BEA-BE73-5F04377B0045"
     },
     {
       "class": "group",
-      "id": "A228DDDC-BFE3-48FC-8EE9-8EB948F08714"
+      "id": "E22274ED-CE3D-44A2-9544-F12DA6829868"
     },
     {
       "class": "text",
-      "id": "CE800CEE-4E6A-4E8F-8DC9-2A5E991EB046"
+      "id": "188C2BC4-555B-41D2-89B8-02169459BBB1"
     },
     {
       "class": "symbolInstance",
-      "id": "715FF180-545B-4E67-A312-B15E9AD6F33A"
+      "id": "969EEF8E-D8DC-4FE4-ABF6-0FF6F98D9DFD"
     },
     {
       "class": "text",
-      "id": "831E4672-027D-425E-852E-CDDD1035BD66"
+      "id": "1AD6DB5F-BE53-4FA4-A1DA-96EF25C4EDBB"
     },
     {
       "class": "group",
-      "id": "E8654A7D-AA19-4A17-BE00-BAC7BBFFE7AD"
+      "id": "AB96173F-0270-4C1B-8C05-0D3A6DBE57D5"
     },
     {
       "class": "group",
-      "id": "5D39E864-4171-4208-BB40-D6D50BFB1A6B"
+      "id": "AFCE688F-7EBD-4E67-8734-776955B7A10E"
     },
     {
       "class": "group",
-      "id": "6FC478DF-C15C-468E-9E7B-9CC6D98F2850"
+      "id": "94DBB560-31AB-428F-BCC6-C2A8188BF98B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "2",
+  "name": "2 copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -139,7 +139,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "56C319BA-5043-410A-8D90-62241D6FD949",
+    "do_objectID": "488C99C9-6084-4D74-8E7C-96A4C421138F",
     "endMarkerType": 0,
     "fills": [
     ],

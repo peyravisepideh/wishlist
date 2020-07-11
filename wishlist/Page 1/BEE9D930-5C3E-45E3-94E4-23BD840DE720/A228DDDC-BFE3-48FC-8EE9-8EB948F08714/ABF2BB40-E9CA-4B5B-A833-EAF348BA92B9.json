@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProText-Semibold",
-              "size": 26
+              "size": 22
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 124,
+    "height": 26,
+    "width": 105,
     "x": 24,
-    "y": 27
+    "y": 31
   },
-  "glyphBounds": "{{2, 5}, {120, 21}}",
+  "glyphBounds": "{{1, 4}, {102, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,7 +128,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProText-Semibold",
-            "size": 26
+            "size": 22
           }
         },
         "paragraphStyle": {

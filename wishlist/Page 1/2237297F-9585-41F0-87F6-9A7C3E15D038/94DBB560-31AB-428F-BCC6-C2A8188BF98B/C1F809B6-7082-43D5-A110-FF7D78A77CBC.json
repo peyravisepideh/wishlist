@@ -16,26 +16,26 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Semibold",
-              "size": 22
+              "name": "SFProText-Regular",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "and"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED0671F5-ADE3-4653-99C6-32D1D3D712F3",
+  "do_objectID": "C1F809B6-7082-43D5-A110-FF7D78A77CBC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 69,
-    "x": 24,
-    "y": 31
+    "height": 21,
+    "width": 32,
+    "x": 156,
+    "y": 28
   },
-  "glyphBounds": "{{7, 4}, {55, 18}}",
+  "glyphBounds": "{{0, 3}, {30, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Email",
+  "name": "and",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -102,9 +102,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.65
+      "opacity": 1
     },
-    "do_objectID": "9768A68A-A430-41CF-AA6C-04B51DA0A585",
+    "do_objectID": "481D7ADD-0E3E-4D10-AE63-D593435E8ABA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,13 +127,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Semibold",
-            "size": 22
+            "name": "SFProText-Regular",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -141,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

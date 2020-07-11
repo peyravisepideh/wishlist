@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0223620-C50F-42A7-8E9A-20CEB027445D",
+  "do_objectID": "6370CCF3-1D90-429D-8115-DE1DF6FC9A7A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 61,
+    "width": 61,
+    "x": 80,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,33 +33,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "29DA426B-083D-43D8-9EFE-39FD9E303897"
+      "class": "oval",
+      "id": "CC7A9B93-4BEF-46DE-8F8A-E2845C85EBF6"
     },
     {
-      "class": "artboard",
-      "id": "86214C65-18E3-4959-A83B-9100267595FA"
-    },
-    {
-      "class": "artboard",
-      "id": "BEE9D930-5C3E-45E3-94E4-23BD840DE720"
-    },
-    {
-      "class": "artboard",
-      "id": "2237297F-9585-41F0-87F6-9A7C3E15D038"
-    },
-    {
-      "class": "artboard",
-      "id": "8652B261-5EF7-43B0-8A8C-CCEED515018A"
-    },
-    {
-      "class": "artboard",
-      "id": "61F76E74-6AC5-41E3-A338-C9F01D03D23F"
+      "class": "bitmap",
+      "id": "636866A4-EF30-4008-814F-98A3DFCF99DD"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "google",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -105,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F4BCDAE7-D925-40D4-AA1F-8FB43FB884F7",
+    "do_objectID": "87474873-A9DC-48BC-8534-CF8649DE1E56",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,11 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

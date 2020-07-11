@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "FC66CB8C-55E1-492A-B18A-3F2D3329F78B",
+  "do_objectID": "AFCE688F-7EBD-4E67-8734-776955B7A10E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,31 +12,38 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 2280,
-    "width": 1080,
-    "x": 785,
-    "y": -2361
+    "constrainProportions": false,
+    "height": 61,
+    "width": 141,
+    "x": 224,
+    "y": 645
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/f9c94a40ee742cdc3234b28bb4a1d49ad35f7793.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6370CCF3-1D90-429D-8115-DE1DF6FC9A7A"
+    },
+    {
+      "class": "group",
+      "id": "30509B11-42F8-4853-BDA4-8862168535B4"
+    }
+  ],
   "maintainScrollPosition": false,
-  "name": "Screenshot_20200711-192723_Reflectly",
-  "nameIsFixed": false,
+  "name": "F&G",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "27A44FEC-CE7A-4CB8-9057-F0B28455D1DD",
+    "do_objectID": "CA5218C9-5DF1-4633-A117-CF3E920E188F",
     "endMarkerType": 0,
     "fills": [
     ],

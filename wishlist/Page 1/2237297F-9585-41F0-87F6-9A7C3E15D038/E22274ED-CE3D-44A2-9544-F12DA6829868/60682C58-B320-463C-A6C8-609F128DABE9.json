@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "********"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED0671F5-ADE3-4653-99C6-32D1D3D712F3",
+  "do_objectID": "60682C58-B320-463C-A6C8-609F128DABE9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 69,
+    "height": 18,
+    "width": 85,
     "x": 24,
-    "y": 31
+    "y": 35
   },
-  "glyphBounds": "{{7, 4}, {55, 18}}",
+  "glyphBounds": "{{1, 5}, {83, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Email",
+  "name": "********",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -102,9 +102,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.65
+      "opacity": 1
     },
-    "do_objectID": "9768A68A-A430-41CF-AA6C-04B51DA0A585",
+    "do_objectID": "1CDFF53C-3F26-4D40-8AC4-F38777560C62",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -141,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

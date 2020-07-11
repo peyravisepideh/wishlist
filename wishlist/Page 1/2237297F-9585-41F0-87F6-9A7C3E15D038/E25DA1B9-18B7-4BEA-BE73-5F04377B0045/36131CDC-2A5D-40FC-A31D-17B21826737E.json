@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "Peyravisepideh@gmail.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED0671F5-ADE3-4653-99C6-32D1D3D712F3",
+  "do_objectID": "36131CDC-2A5D-40FC-A31D-17B21826737E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 69,
+    "width": 297,
     "x": 24,
     "y": 31
   },
-  "glyphBounds": "{{7, 4}, {55, 18}}",
+  "glyphBounds": "{{1, 4}, {295, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Email",
+  "name": "Peyravisepideh@gmail",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -102,9 +102,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.65
+      "opacity": 1
     },
-    "do_objectID": "9768A68A-A430-41CF-AA6C-04B51DA0A585",
+    "do_objectID": "50A8AB0D-D63A-440D-873C-742113C44D23",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -141,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

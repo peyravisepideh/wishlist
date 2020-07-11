@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Semibold",
-              "size": 22
+              "name": "SFProText-Bold",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "or register with"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED0671F5-ADE3-4653-99C6-32D1D3D712F3",
+  "do_objectID": "EB6C66EA-116E-4512-B7EB-0A67F7E8C0A4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 69,
-    "x": 24,
-    "y": 31
+    "height": 18,
+    "width": 125,
+    "x": 49,
+    "y": 668
   },
-  "glyphBounds": "{{7, 4}, {55, 18}}",
+  "glyphBounds": "{{1, 2}, {123, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Email",
+  "name": "or register with",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -102,9 +102,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.65
+      "opacity": 1
     },
-    "do_objectID": "9768A68A-A430-41CF-AA6C-04B51DA0A585",
+    "do_objectID": "2D9B7FC1-0B91-4761-A518-E97C9CCE818B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,8 +127,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Semibold",
-            "size": 22
+            "name": "SFProText-Bold",
+            "size": 16
           }
         },
         "paragraphStyle": {
@@ -141,5 +141,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Semibold",
-              "size": 22
+              "name": "SFProText-Bold",
+              "size": 28
             }
           },
           "paragraphStyle": {
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "Sign in"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED0671F5-ADE3-4653-99C6-32D1D3D712F3",
+  "do_objectID": "23A05708-759C-4127-9C59-53335F7FED7B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 69,
-    "x": 24,
-    "y": 31
+    "height": 34,
+    "width": 96,
+    "x": 110.5,
+    "y": 19
   },
-  "glyphBounds": "{{7, 4}, {55, 18}}",
+  "glyphBounds": "{{1, 5}, {93, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Email",
+  "name": "Sign in",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -102,11 +102,63 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.65
+      "opacity": 1
     },
-    "do_objectID": "9768A68A-A430-41CF-AA6C-04B51DA0A585",
+    "do_objectID": "6C583D9F-956B-406D-9FD6-B01F7E92438D",
     "endMarkerType": 0,
     "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7803921568627451,
+          "green": 0.4509803921568627,
+          "red": 0.4784313725490195
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
     ],
     "innerShadows": [
     ],
@@ -127,8 +179,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Semibold",
-            "size": 22
+            "name": "SFProText-Bold",
+            "size": 28
           }
         },
         "paragraphStyle": {
@@ -141,5 +193,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
